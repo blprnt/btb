@@ -1,0 +1,5080 @@
+CircleName,Abbrev,LatLong
+Anderson River Park,CAAD,40.4237530000/-122.1870460000
+
+CountYear3,LowTemp,HighTemp,AMCloud,PMClouds,AMRain,PMRain,AMSnow,PMSnow
+124,37.0 Fahrenheit,63.0 Fahrenheit,Partly Cloudy,Partly Cloudy,None,None,None,None
+119,45.0 Fahrenheit,52.0 Fahrenheit,Clear,Clear,None,Light,None,None
+118,39.0 Fahrenheit,58.0 Fahrenheit,Clear,Clear,None,None,None,None
+117,34.0 Fahrenheit,53.0 Fahrenheit,Clear,Clear,None,None,None,None
+115,40.0 Fahrenheit,55.0 Fahrenheit,Cloudy,Cloudy,Heavy,Light,,
+114,40.0 Fahrenheit,71.0 Fahrenheit,Clear,Clear,None,None,None,None
+
+CountYear5,LowTemp3,HighTemp2,AMCloud2,PMClouds2
+124,12/23/2023,12,61.10,113
+119,12/22/2018,10,64.00,110
+118,12/23/2017,15,52.10,108
+117,12/18/2016,14,35.25,106
+115,12/20/2014,11,42.50,110
+114,12/20/2013,18,61.00,118
+
+CountYear4,LowTemp2
+124,
+119,
+118,
+117,
+115,
+114,
+
+COM_NAME,CountYear,how_manyCW,NumberByPartyHours,Flags
+"Greater White-fronted Goose
+[Anser albifrons]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",39,0.6393,
+"Greater White-fronted Goose
+[Anser albifrons]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",690,16.2353,
+"Greater White-fronted Goose
+[Anser albifrons]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Greater White-fronted Goose
+[Anser albifrons]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Greater White-fronted Goose
+[Anser albifrons]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Greater White-fronted Goose
+[Anser albifrons]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",224,3.6661,
+"Snow Goose
+[Chen caerulescens]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Snow Goose
+[Chen caerulescens]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",217,5.1059,
+"Snow Goose
+[Chen caerulescens]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Snow Goose
+[Chen caerulescens]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",5,0.0960,
+"Snow Goose
+[Chen caerulescens]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Snow Goose
+[Chen caerulescens]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Cackling Goose
+[Branta hutchinsii]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Cackling Goose
+[Branta hutchinsii]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Cackling Goose
+[Branta hutchinsii]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Cackling Goose
+[Branta hutchinsii]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,
+"Cackling Goose
+[Branta hutchinsii]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",2,0.0313,
+"Cackling Goose
+[Branta hutchinsii]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",6,0.0982,
+"Canada Goose
+[Branta canadensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",991,16.2459,
+"Canada Goose
+[Branta canadensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",781,18.3765,
+"Canada Goose
+[Branta canadensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",532,15.0922,
+"Canada Goose
+[Branta canadensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",482,9.2514,"LC,"
+"Canada Goose
+[Branta canadensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",375,5.8594,
+"Canada Goose
+[Branta canadensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",473,7.7414,
+"Tundra Swan
+[Cygnus columbianus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Tundra Swan
+[Cygnus columbianus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Tundra Swan
+[Cygnus columbianus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Tundra Swan
+[Cygnus columbianus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,"LC,"
+"Tundra Swan
+[Cygnus columbianus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Tundra Swan
+[Cygnus columbianus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Wood Duck
+[Aix sponsa]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",113,1.8525,
+"Wood Duck
+[Aix sponsa]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",33,0.7765,
+"Wood Duck
+[Aix sponsa]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",7,0.1986,
+"Wood Duck
+[Aix sponsa]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",20,0.3839,
+"Wood Duck
+[Aix sponsa]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",63,0.9844,
+"Wood Duck
+[Aix sponsa]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",33,0.5401,
+"Gadwall
+[Anas strepera]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",16,0.2623,
+"Gadwall
+[Anas strepera]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",36,0.8471,
+"Gadwall
+[Anas strepera]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",3,0.0851,
+"Gadwall
+[Anas strepera]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"Gadwall
+[Anas strepera]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Gadwall
+[Anas strepera]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",10,0.1637,
+"American Wigeon
+[Anas americana]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",135,2.2131,
+"American Wigeon
+[Anas americana]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",149,3.5059,
+"American Wigeon
+[Anas americana]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",101,2.8652,
+"American Wigeon
+[Anas americana]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",26,0.4990,
+"American Wigeon
+[Anas americana]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",39,0.6094,
+"American Wigeon
+[Anas americana]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",48,0.7856,
+"Mallard
+[Anas platyrhynchos]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",251,4.1148,
+"Mallard
+[Anas platyrhynchos]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",257,6.0471,
+"Mallard
+[Anas platyrhynchos]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",104,2.9504,
+"Mallard
+[Anas platyrhynchos]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",18,0.3455,"LC,"
+"Mallard
+[Anas platyrhynchos]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",65,1.0156,
+"Mallard
+[Anas platyrhynchos]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",91,1.4894,
+"Northern Shoveler
+[Anas clypeata]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",17,0.2787,
+"Northern Shoveler
+[Anas clypeata]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",289,6.8000,
+"Northern Shoveler
+[Anas clypeata]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Northern Shoveler
+[Anas clypeata]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"Northern Shoveler
+[Anas clypeata]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",7,0.1094,
+"Northern Shoveler
+[Anas clypeata]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Northern Pintail
+[Anas acuta]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Northern Pintail
+[Anas acuta]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",455,10.7059,
+"Northern Pintail
+[Anas acuta]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Northern Pintail
+[Anas acuta]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Northern Pintail
+[Anas acuta]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Northern Pintail
+[Anas acuta]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",30,0.4910,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",71,1.1639,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",36,0.8471,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",15,0.2879,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",4,0.0625,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",28,0.4583,
+"Canvasback
+[Aythya valisineria]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Canvasback
+[Aythya valisineria]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Canvasback
+[Aythya valisineria]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Canvasback
+[Aythya valisineria]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Canvasback
+[Aythya valisineria]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Canvasback
+[Aythya valisineria]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Ring-necked Duck
+[Aythya collaris]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",107,1.7541,
+"Ring-necked Duck
+[Aythya collaris]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",118,2.7765,
+"Ring-necked Duck
+[Aythya collaris]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",64,1.8156,
+"Ring-necked Duck
+[Aythya collaris]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",15,0.2879,"LC,"
+"Ring-necked Duck
+[Aythya collaris]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",62,0.9688,
+"Ring-necked Duck
+[Aythya collaris]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",26,0.4255,
+"Lesser Scaup
+[Aythya affinis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Lesser Scaup
+[Aythya affinis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Lesser Scaup
+[Aythya affinis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Lesser Scaup
+[Aythya affinis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Lesser Scaup
+[Aythya affinis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",3,0.0469,
+"Lesser Scaup
+[Aythya affinis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Bufflehead
+[Bucephala albeola]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",72,1.1803,
+"Bufflehead
+[Bucephala albeola]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",111,2.6118,
+"Bufflehead
+[Bucephala albeola]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",142,4.0284,
+"Bufflehead
+[Bucephala albeola]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",44,0.8445,
+"Bufflehead
+[Bucephala albeola]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",49,0.7656,
+"Bufflehead
+[Bucephala albeola]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",195,3.1915,
+"Common Goldeneye
+[Bucephala clangula]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",169,2.7705,
+"Common Goldeneye
+[Bucephala clangula]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",129,3.0353,
+"Common Goldeneye
+[Bucephala clangula]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",216,6.1277,
+"Common Goldeneye
+[Bucephala clangula]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",187,3.5893,
+"Common Goldeneye
+[Bucephala clangula]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",31,0.4844,
+"Common Goldeneye
+[Bucephala clangula]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",413,6.7594,
+"Barrow's Goldeneye
+[Bucephala islandica]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",5,0.0820,
+"Barrow's Goldeneye
+[Bucephala islandica]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Barrow's Goldeneye
+[Bucephala islandica]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Barrow's Goldeneye
+[Bucephala islandica]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,
+"Barrow's Goldeneye
+[Bucephala islandica]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Hooded Merganser
+[Lophodytes cucullatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Hooded Merganser
+[Lophodytes cucullatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Hooded Merganser
+[Lophodytes cucullatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Hooded Merganser
+[Lophodytes cucullatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Hooded Merganser
+[Lophodytes cucullatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Hooded Merganser
+[Lophodytes cucullatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1,0.0164,
+"Common Merganser
+[Mergus merganser]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",134,2.1967,
+"Common Merganser
+[Mergus merganser]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",55,1.2941,
+"Common Merganser
+[Mergus merganser]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",46,1.3050,
+"Common Merganser
+[Mergus merganser]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",41,0.7869,"LC,"
+"Common Merganser
+[Mergus merganser]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",35,0.5469,
+"Common Merganser
+[Mergus merganser]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Ruddy Duck
+[Oxyura jamaicensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",121,1.9836,
+"Ruddy Duck
+[Oxyura jamaicensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",8,0.1882,
+"Ruddy Duck
+[Oxyura jamaicensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",34,0.9645,
+"Ruddy Duck
+[Oxyura jamaicensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",3,0.0576,"LC,"
+"Ruddy Duck
+[Oxyura jamaicensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Ruddy Duck
+[Oxyura jamaicensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"California Quail
+[Callipepla californica]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",190,3.1148,
+"California Quail
+[Callipepla californica]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",161,3.7882,
+"California Quail
+[Callipepla californica]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",74,2.0993,
+"California Quail
+[Callipepla californica]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",177,3.3973,
+"California Quail
+[Callipepla californica]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",49,0.7656,
+"California Quail
+[Callipepla californica]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",186,3.0442,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Wild Turkey
+[Meleagris gallopavo]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",11,0.1803,
+"Wild Turkey
+[Meleagris gallopavo]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Wild Turkey
+[Meleagris gallopavo]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",55,1.5603,
+"Wild Turkey
+[Meleagris gallopavo]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",128,2.4568,
+"Wild Turkey
+[Meleagris gallopavo]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Wild Turkey
+[Meleagris gallopavo]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",56,0.9180,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",149,3.5059,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",72,2.0426,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",73,1.4012,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",127,1.9844,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",23,0.3764,
+"Eared Grebe
+[Podiceps nigricollis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Eared Grebe
+[Podiceps nigricollis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Eared Grebe
+[Podiceps nigricollis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Eared Grebe
+[Podiceps nigricollis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,"US,"
+"Eared Grebe
+[Podiceps nigricollis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Eared Grebe
+[Podiceps nigricollis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1,0.0164,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",48,0.7869,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",62,1.4588,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",72,2.0426,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",51,0.9789,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",57,0.8906,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",91,1.4894,
+"American White Pelican
+[Pelecanus erythrorhynchos]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",cw,0.0000,
+"American White Pelican
+[Pelecanus erythrorhynchos]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"American White Pelican
+[Pelecanus erythrorhynchos]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"American White Pelican
+[Pelecanus erythrorhynchos]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"American White Pelican
+[Pelecanus erythrorhynchos]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"American White Pelican
+[Pelecanus erythrorhynchos]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"American Bittern
+[Botaurus lentiginosus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"American Bittern
+[Botaurus lentiginosus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"American Bittern
+[Botaurus lentiginosus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"American Bittern
+[Botaurus lentiginosus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"US,"
+"American Bittern
+[Botaurus lentiginosus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"American Bittern
+[Botaurus lentiginosus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",36,0.5902,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",12,0.2824,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",22,0.6241,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",19,0.3647,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",21,0.3281,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",33,0.5401,
+"Great Egret
+[Ardea alba]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",37,0.6066,
+"Great Egret
+[Ardea alba]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",76,1.7882,
+"Great Egret
+[Ardea alba]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",42,1.1915,
+"Great Egret
+[Ardea alba]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",26,0.4990,"LC,"
+"Great Egret
+[Ardea alba]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",67,1.0469,
+"Great Egret
+[Ardea alba]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",44,0.7201,
+"Snowy Egret
+[Egretta thula]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Snowy Egret
+[Egretta thula]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Snowy Egret
+[Egretta thula]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Snowy Egret
+[Egretta thula]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,
+"Snowy Egret
+[Egretta thula]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Snowy Egret
+[Egretta thula]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Green Heron
+[Butorides virescens]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",3,0.0492,
+"Green Heron
+[Butorides virescens]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Green Heron
+[Butorides virescens]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Green Heron
+[Butorides virescens]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,
+"Green Heron
+[Butorides virescens]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Green Heron
+[Butorides virescens]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Turkey Vulture
+[Cathartes aura]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",477,7.8197,
+"Turkey Vulture
+[Cathartes aura]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",302,7.1059,
+"Turkey Vulture
+[Cathartes aura]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",240,6.8085,
+"Turkey Vulture
+[Cathartes aura]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",237,4.5489,
+"Turkey Vulture
+[Cathartes aura]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",288,4.5000,
+"Turkey Vulture
+[Cathartes aura]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",408,6.6776,
+"Osprey
+[Pandion haliaetus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Osprey
+[Pandion haliaetus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Osprey
+[Pandion haliaetus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Osprey
+[Pandion haliaetus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Osprey
+[Pandion haliaetus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Osprey
+[Pandion haliaetus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3,0.0491,
+"White-tailed Kite
+[Elanus leucurus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"White-tailed Kite
+[Elanus leucurus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"White-tailed Kite
+[Elanus leucurus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"White-tailed Kite
+[Elanus leucurus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"White-tailed Kite
+[Elanus leucurus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"White-tailed Kite
+[Elanus leucurus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Golden Eagle
+[Aquila chrysaetos]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Golden Eagle
+[Aquila chrysaetos]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Golden Eagle
+[Aquila chrysaetos]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",7,0.1986,
+"Golden Eagle
+[Aquila chrysaetos]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Golden Eagle
+[Aquila chrysaetos]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Golden Eagle
+[Aquila chrysaetos]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3,0.0491,
+"Northern Harrier
+[Circus cyaneus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",21,0.3443,
+"Northern Harrier
+[Circus cyaneus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",4,0.0941,
+"Northern Harrier
+[Circus cyaneus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",13,0.3688,
+"Northern Harrier
+[Circus cyaneus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",6,0.1152,
+"Northern Harrier
+[Circus cyaneus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",9,0.1406,
+"Northern Harrier
+[Circus cyaneus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",7,0.1344,"HC,"
+"Sharp-shinned Hawk
+[Accipiter striatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",2,0.0313,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Cooper's Hawk
+[Accipiter cooperii]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",6,0.0984,
+"Cooper's Hawk
+[Accipiter cooperii]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Cooper's Hawk
+[Accipiter cooperii]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Cooper's Hawk
+[Accipiter cooperii]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Cooper's Hawk
+[Accipiter cooperii]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",8,0.1250,
+"Cooper's Hawk
+[Accipiter cooperii]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",27,0.4426,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",12,0.2824,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",11,0.3121,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",13,0.2495,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",10,0.1563,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",37,0.6056,
+"Red-shouldered Hawk
+[Buteo lineatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",24,0.3934,
+"Red-shouldered Hawk
+[Buteo lineatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",16,0.3765,
+"Red-shouldered Hawk
+[Buteo lineatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",9,0.2553,
+"Red-shouldered Hawk
+[Buteo lineatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",18,0.3455,
+"Red-shouldered Hawk
+[Buteo lineatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",15,0.2344,
+"Red-shouldered Hawk
+[Buteo lineatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",10,0.1637,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",70,1.1475,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",37,0.8706,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",70,1.9858,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",56,1.0749,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",85,1.3281,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",62,1.0147,
+"Rough-legged Hawk
+[Buteo lagopus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Rough-legged Hawk
+[Buteo lagopus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Rough-legged Hawk
+[Buteo lagopus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Rough-legged Hawk
+[Buteo lagopus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Rough-legged Hawk
+[Buteo lagopus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Rough-legged Hawk
+[Buteo lagopus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Ferruginous Hawk
+[Buteo regalis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",8,0.1311,
+"Ferruginous Hawk
+[Buteo regalis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",3,0.0706,
+"Ferruginous Hawk
+[Buteo regalis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",6,0.1702,
+"Ferruginous Hawk
+[Buteo regalis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",7,0.1344,
+"Ferruginous Hawk
+[Buteo regalis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",11,0.1719,
+"Ferruginous Hawk
+[Buteo regalis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",6,0.0982,
+"Virginia Rail
+[Rallus limicola]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",10,0.1639,
+"Virginia Rail
+[Rallus limicola]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",5,0.1176,
+"Virginia Rail
+[Rallus limicola]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",11,0.3121,
+"Virginia Rail
+[Rallus limicola]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",8,0.1536,
+"Virginia Rail
+[Rallus limicola]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",12,0.1875,
+"Virginia Rail
+[Rallus limicola]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",7,0.1146,
+"Sora
+[Porzana carolina]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Sora
+[Porzana carolina]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Sora
+[Porzana carolina]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",3,0.0851,
+"Sora
+[Porzana carolina]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Sora
+[Porzana carolina]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Sora
+[Porzana carolina]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3,0.0491,
+"Common Gallinule
+[Gallinula galeata]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",6,0.0984,
+"Common Gallinule
+[Gallinula galeata]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Common Gallinule
+[Gallinula galeata]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",17,0.4823,
+"Common Gallinule
+[Gallinula galeata]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",12,0.2303,
+"Common Gallinule
+[Gallinula galeata]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",11,0.1719,
+"Common Gallinule
+[Gallinula galeata]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",6,0.0982,
+"American Coot
+[Fulica americana]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1009,16.5410,
+"American Coot
+[Fulica americana]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",391,9.2000,
+"American Coot
+[Fulica americana]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",227,6.4397,
+"American Coot
+[Fulica americana]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",50,0.9597,"LC,"
+"American Coot
+[Fulica americana]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",123,1.9219,
+"American Coot
+[Fulica americana]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",25,0.4092,
+"Killdeer
+[Charadrius vociferus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",88,1.4426,
+"Killdeer
+[Charadrius vociferus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",271,6.3765,
+"Killdeer
+[Charadrius vociferus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",106,3.0071,
+"Killdeer
+[Charadrius vociferus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",62,1.1900,
+"Killdeer
+[Charadrius vociferus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",22,0.3438,
+"Killdeer
+[Charadrius vociferus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",63,1.0311,
+"Spotted Sandpiper
+[Actitis macularius]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",28,0.4590,
+"Spotted Sandpiper
+[Actitis macularius]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",7,0.1647,
+"Spotted Sandpiper
+[Actitis macularius]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Spotted Sandpiper
+[Actitis macularius]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",10,0.1919,
+"Spotted Sandpiper
+[Actitis macularius]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",9,0.1406,
+"Spotted Sandpiper
+[Actitis macularius]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",64,1.0475,
+"Greater Yellowlegs
+[Tringa melanoleuca]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",7,0.1148,
+"Greater Yellowlegs
+[Tringa melanoleuca]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Greater Yellowlegs
+[Tringa melanoleuca]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",30,0.8511,
+"Greater Yellowlegs
+[Tringa melanoleuca]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",23,0.4415,
+"Greater Yellowlegs
+[Tringa melanoleuca]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",3,0.0469,
+"Greater Yellowlegs
+[Tringa melanoleuca]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",18,0.2946,
+"Least Sandpiper
+[Calidris minutilla]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",61,1.0000,
+"Least Sandpiper
+[Calidris minutilla]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",35,0.8235,
+"Least Sandpiper
+[Calidris minutilla]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Least Sandpiper
+[Calidris minutilla]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",30,0.5758,
+"Least Sandpiper
+[Calidris minutilla]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Least Sandpiper
+[Calidris minutilla]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Wilson's Snipe
+[Gallinago delicata]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",47,0.7705,
+"Wilson's Snipe
+[Gallinago delicata]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",14,0.3294,
+"Wilson's Snipe
+[Gallinago delicata]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",4,0.1135,
+"Wilson's Snipe
+[Gallinago delicata]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",28,0.5374,
+"Wilson's Snipe
+[Gallinago delicata]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",2,0.0313,
+"Wilson's Snipe
+[Gallinago delicata]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",16,0.2619,
+"Ring-billed Gull
+[Larus delawarensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",5,0.0820,
+"Ring-billed Gull
+[Larus delawarensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",44,1.0353,
+"Ring-billed Gull
+[Larus delawarensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Ring-billed Gull
+[Larus delawarensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",33,0.6334,
+"Ring-billed Gull
+[Larus delawarensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",9,0.1406,
+"Ring-billed Gull
+[Larus delawarensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"California Gull
+[Larus californicus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"California Gull
+[Larus californicus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"California Gull
+[Larus californicus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"California Gull
+[Larus californicus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"California Gull
+[Larus californicus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"California Gull
+[Larus californicus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Herring Gull
+[Larus argentatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Herring Gull
+[Larus argentatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Herring Gull
+[Larus argentatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Herring Gull
+[Larus argentatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,
+"Herring Gull
+[Larus argentatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",2,0.0313,
+"Herring Gull
+[Larus argentatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"gull sp.
+[Larinae sp.]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",6,0.0984,
+"gull sp.
+[Larinae sp.]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"gull sp.
+[Larinae sp.]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"gull sp.
+[Larinae sp.]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",3,0.0576,
+"gull sp.
+[Larinae sp.]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",4,0.0625,
+"gull sp.
+[Larinae sp.]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",234,3.8361,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",286,6.7294,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",95,2.6950,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",137,2.6296,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",35,0.5469,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",105,1.7185,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",89,2.0941,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Eurasian Collared-Dove
+[Streptopelia decaocto]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",46,0.7541,
+"Eurasian Collared-Dove
+[Streptopelia decaocto]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",134,3.1529,
+"Eurasian Collared-Dove
+[Streptopelia decaocto]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",46,1.3050,
+"Eurasian Collared-Dove
+[Streptopelia decaocto]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",117,2.2457,
+"Eurasian Collared-Dove
+[Streptopelia decaocto]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",109,1.7031,
+"Eurasian Collared-Dove
+[Streptopelia decaocto]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",101,1.6530,
+"Mourning Dove
+[Zenaida macroura]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",76,1.2459,
+"Mourning Dove
+[Zenaida macroura]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",68,1.6000,
+"Mourning Dove
+[Zenaida macroura]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",208,5.9007,
+"Mourning Dove
+[Zenaida macroura]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",80,1.5355,
+"Mourning Dove
+[Zenaida macroura]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",120,1.8750,
+"Mourning Dove
+[Zenaida macroura]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",230,3.7643,
+"Greater Roadrunner
+[Geococcyx californianus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Greater Roadrunner
+[Geococcyx californianus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Greater Roadrunner
+[Geococcyx californianus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Greater Roadrunner
+[Geococcyx californianus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Greater Roadrunner
+[Geococcyx californianus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Greater Roadrunner
+[Geococcyx californianus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Barn Owl
+[Tyto alba]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Barn Owl
+[Tyto alba]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Barn Owl
+[Tyto alba]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Barn Owl
+[Tyto alba]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Barn Owl
+[Tyto alba]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Barn Owl
+[Tyto alba]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Great Horned Owl
+[Bubo virginianus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",6,0.0984,
+"Great Horned Owl
+[Bubo virginianus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Great Horned Owl
+[Bubo virginianus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",8,0.2270,
+"Great Horned Owl
+[Bubo virginianus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,"LC,"
+"Great Horned Owl
+[Bubo virginianus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",6,0.0938,
+"Great Horned Owl
+[Bubo virginianus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",18,0.2946,
+"Northern Pygmy-Owl
+[Glaucidium gnoma]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",cw,0.0000,
+"Northern Pygmy-Owl
+[Glaucidium gnoma]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Northern Pygmy-Owl
+[Glaucidium gnoma]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Northern Pygmy-Owl
+[Glaucidium gnoma]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Northern Pygmy-Owl
+[Glaucidium gnoma]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Northern Pygmy-Owl
+[Glaucidium gnoma]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Burrowing Owl
+[Athene cunicularia]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Burrowing Owl
+[Athene cunicularia]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Burrowing Owl
+[Athene cunicularia]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Burrowing Owl
+[Athene cunicularia]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"US,"
+"Burrowing Owl
+[Athene cunicularia]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Burrowing Owl
+[Athene cunicularia]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Anna's Hummingbird
+[Calypte anna]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",16,0.2623,
+"Anna's Hummingbird
+[Calypte anna]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",40,0.9412,
+"Anna's Hummingbird
+[Calypte anna]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",3,0.0851,
+"Anna's Hummingbird
+[Calypte anna]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",20,0.3839,
+"Anna's Hummingbird
+[Calypte anna]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",12,0.1875,
+"Anna's Hummingbird
+[Calypte anna]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",27,0.4419,
+"Belted Kingfisher
+[Megaceryle alcyon]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",17,0.2787,
+"Belted Kingfisher
+[Megaceryle alcyon]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",21,0.4941,
+"Belted Kingfisher
+[Megaceryle alcyon]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",27,0.7660,
+"Belted Kingfisher
+[Megaceryle alcyon]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",17,0.3263,"LC,"
+"Belted Kingfisher
+[Megaceryle alcyon]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",18,0.2813,
+"Belted Kingfisher
+[Megaceryle alcyon]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",20,0.3273,
+"Lewis's Woodpecker
+[Melanerpes lewis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",194,3.1803,
+"Lewis's Woodpecker
+[Melanerpes lewis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Lewis's Woodpecker
+[Melanerpes lewis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Lewis's Woodpecker
+[Melanerpes lewis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,
+"Lewis's Woodpecker
+[Melanerpes lewis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",31,0.4844,
+"Lewis's Woodpecker
+[Melanerpes lewis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",30,0.4910,
+"Acorn Woodpecker
+[Melanerpes formicivorus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",309,5.0656,
+"Acorn Woodpecker
+[Melanerpes formicivorus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",160,3.7647,
+"Acorn Woodpecker
+[Melanerpes formicivorus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",215,6.0993,
+"Acorn Woodpecker
+[Melanerpes formicivorus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",190,3.6468,
+"Acorn Woodpecker
+[Melanerpes formicivorus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",237,3.7031,
+"Acorn Woodpecker
+[Melanerpes formicivorus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",428,7.0049,
+"Red-breasted Sapsucker
+[Sphyrapicus ruber]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",6,0.0984,
+"Red-breasted Sapsucker
+[Sphyrapicus ruber]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",4,0.0941,
+"Red-breasted Sapsucker
+[Sphyrapicus ruber]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",6,0.1702,
+"Red-breasted Sapsucker
+[Sphyrapicus ruber]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,
+"Red-breasted Sapsucker
+[Sphyrapicus ruber]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Red-breasted Sapsucker
+[Sphyrapicus ruber]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3,0.0491,
+"Nuttall's Woodpecker
+[Picoides nuttallii]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",33,0.5410,
+"Nuttall's Woodpecker
+[Picoides nuttallii]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",25,0.5882,
+"Nuttall's Woodpecker
+[Picoides nuttallii]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",28,0.7943,
+"Nuttall's Woodpecker
+[Picoides nuttallii]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",30,0.5758,
+"Nuttall's Woodpecker
+[Picoides nuttallii]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",38,0.5938,
+"Nuttall's Woodpecker
+[Picoides nuttallii]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",61,0.9984,
+"Downy Woodpecker
+[Picoides pubescens]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",10,0.1639,
+"Downy Woodpecker
+[Picoides pubescens]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",3,0.0706,
+"Downy Woodpecker
+[Picoides pubescens]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",5,0.1418,
+"Downy Woodpecker
+[Picoides pubescens]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",9,0.1727,
+"Downy Woodpecker
+[Picoides pubescens]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",10,0.1563,
+"Downy Woodpecker
+[Picoides pubescens]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",17,0.2782,
+"Hairy Woodpecker
+[Picoides villosus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Hairy Woodpecker
+[Picoides villosus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Hairy Woodpecker
+[Picoides villosus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Hairy Woodpecker
+[Picoides villosus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Hairy Woodpecker
+[Picoides villosus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Hairy Woodpecker
+[Picoides villosus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Northern Flicker (Red-shafted)
+[Colaptes auratus [cafer Group]]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",95,1.5574,
+"Northern Flicker (Red-shafted)
+[Colaptes auratus [cafer Group]]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",106,2.4941,
+"Northern Flicker (Red-shafted)
+[Colaptes auratus [cafer Group]]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",106,3.0071,
+"Northern Flicker (Red-shafted)
+[Colaptes auratus [cafer Group]]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",100,1.9194,
+"Northern Flicker (Red-shafted)
+[Colaptes auratus [cafer Group]]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",63,0.9844,
+"Northern Flicker (Red-shafted)
+[Colaptes auratus [cafer Group]]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",174,2.8478,
+"American Kestrel
+[Falco sparverius]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",26,0.4262,
+"American Kestrel
+[Falco sparverius]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",17,0.4000,
+"American Kestrel
+[Falco sparverius]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",23,0.6525,
+"American Kestrel
+[Falco sparverius]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",27,0.5182,
+"American Kestrel
+[Falco sparverius]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",27,0.4219,
+"American Kestrel
+[Falco sparverius]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",19,0.3110,
+"Merlin
+[Falco columbarius]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Merlin
+[Falco columbarius]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",3,0.0706,
+"Merlin
+[Falco columbarius]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Merlin
+[Falco columbarius]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",6,0.1152,
+"Merlin
+[Falco columbarius]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Merlin
+[Falco columbarius]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Peregrine Falcon
+[Falco peregrinus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Peregrine Falcon
+[Falco peregrinus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Peregrine Falcon
+[Falco peregrinus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Peregrine Falcon
+[Falco peregrinus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Peregrine Falcon
+[Falco peregrinus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",4,0.0625,
+"Peregrine Falcon
+[Falco peregrinus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1,0.0164,
+"Prairie Falcon
+[Falco mexicanus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Prairie Falcon
+[Falco mexicanus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Prairie Falcon
+[Falco mexicanus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Prairie Falcon
+[Falco mexicanus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,
+"Prairie Falcon
+[Falco mexicanus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Prairie Falcon
+[Falco mexicanus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3,0.0491,
+"Black Phoebe
+[Sayornis nigricans]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",60,0.9836,
+"Black Phoebe
+[Sayornis nigricans]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",41,0.9647,
+"Black Phoebe
+[Sayornis nigricans]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",48,1.3617,
+"Black Phoebe
+[Sayornis nigricans]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",59,1.1324,
+"Black Phoebe
+[Sayornis nigricans]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",111,1.7344,
+"Black Phoebe
+[Sayornis nigricans]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",90,1.4730,
+"Say's Phoebe
+[Sayornis saya]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",9,0.1475,
+"Say's Phoebe
+[Sayornis saya]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",3,0.0706,
+"Say's Phoebe
+[Sayornis saya]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",9,0.2553,
+"Say's Phoebe
+[Sayornis saya]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",7,0.1344,
+"Say's Phoebe
+[Sayornis saya]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",11,0.1719,
+"Say's Phoebe
+[Sayornis saya]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",9,0.1473,
+"Loggerhead Shrike
+[Lanius ludovicianus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Loggerhead Shrike
+[Lanius ludovicianus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Loggerhead Shrike
+[Lanius ludovicianus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Loggerhead Shrike
+[Lanius ludovicianus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"Loggerhead Shrike
+[Lanius ludovicianus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Loggerhead Shrike
+[Lanius ludovicianus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Hutton's Vireo
+[Vireo huttoni]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Hutton's Vireo
+[Vireo huttoni]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",7,0.1647,
+"Hutton's Vireo
+[Vireo huttoni]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Hutton's Vireo
+[Vireo huttoni]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",3,0.0576,
+"Hutton's Vireo
+[Vireo huttoni]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Hutton's Vireo
+[Vireo huttoni]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1,0.0164,
+"Steller's Jay
+[Cyanocitta stelleri]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Steller's Jay
+[Cyanocitta stelleri]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",15,0.3529,
+"Steller's Jay
+[Cyanocitta stelleri]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Steller's Jay
+[Cyanocitta stelleri]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Steller's Jay
+[Cyanocitta stelleri]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Steller's Jay
+[Cyanocitta stelleri]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Western Scrub-Jay
+[Aphelocoma californica]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",164,2.6885,
+"Western Scrub-Jay
+[Aphelocoma californica]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",110,2.5882,
+"Western Scrub-Jay
+[Aphelocoma californica]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",132,3.7447,
+"Western Scrub-Jay
+[Aphelocoma californica]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",149,2.8599,
+"Western Scrub-Jay
+[Aphelocoma californica]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",210,3.2813,
+"Western Scrub-Jay
+[Aphelocoma californica]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",290,4.7463,
+"Yellow-billed Magpie
+[Pica nuttalli]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",29,0.4754,
+"Yellow-billed Magpie
+[Pica nuttalli]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",33,0.7765,
+"Yellow-billed Magpie
+[Pica nuttalli]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",107,3.0355,
+"Yellow-billed Magpie
+[Pica nuttalli]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",57,1.0940,
+"Yellow-billed Magpie
+[Pica nuttalli]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",30,0.4688,
+"Yellow-billed Magpie
+[Pica nuttalli]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",56,0.9165,
+"American Crow
+[Corvus brachyrhynchos]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",19,0.3115,
+"American Crow
+[Corvus brachyrhynchos]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",18,0.4235,
+"American Crow
+[Corvus brachyrhynchos]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",11,0.3121,
+"American Crow
+[Corvus brachyrhynchos]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",25,0.4798,
+"American Crow
+[Corvus brachyrhynchos]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",40,0.6250,
+"American Crow
+[Corvus brachyrhynchos]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Common Raven
+[Corvus corax]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",104,1.7049,
+"Common Raven
+[Corvus corax]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",57,1.3412,
+"Common Raven
+[Corvus corax]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",41,1.1631,
+"Common Raven
+[Corvus corax]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",40,0.7678,
+"Common Raven
+[Corvus corax]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",53,0.8281,
+"Common Raven
+[Corvus corax]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",167,2.7332,
+"Horned Lark
+[Eremophila alpestris]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",30,0.4918,
+"Horned Lark
+[Eremophila alpestris]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",15,0.3529,
+"Horned Lark
+[Eremophila alpestris]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",19,0.5390,
+"Horned Lark
+[Eremophila alpestris]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Horned Lark
+[Eremophila alpestris]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",300,4.6875,
+"Horned Lark
+[Eremophila alpestris]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",112,1.8331,
+"Violet-green Swallow
+[Tachycineta thalassina]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Violet-green Swallow
+[Tachycineta thalassina]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Violet-green Swallow
+[Tachycineta thalassina]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Violet-green Swallow
+[Tachycineta thalassina]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Violet-green Swallow
+[Tachycineta thalassina]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Violet-green Swallow
+[Tachycineta thalassina]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Oak Titmouse
+[Baeolophus inornatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",78,1.2787,
+"Oak Titmouse
+[Baeolophus inornatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",30,0.7059,
+"Oak Titmouse
+[Baeolophus inornatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",33,0.9362,
+"Oak Titmouse
+[Baeolophus inornatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",85,1.6315,
+"Oak Titmouse
+[Baeolophus inornatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",84,1.3125,
+"Oak Titmouse
+[Baeolophus inornatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",102,1.6694,
+"Bushtit
+[Psaltriparus minimus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",128,2.0984,
+"Bushtit
+[Psaltriparus minimus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",152,3.5765,
+"Bushtit
+[Psaltriparus minimus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",261,7.4043,
+"Bushtit
+[Psaltriparus minimus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",373,7.1593,"HC,"
+"Bushtit
+[Psaltriparus minimus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",174,2.7188,
+"Bushtit
+[Psaltriparus minimus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",177,2.8969,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",55,0.9016,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",22,0.5176,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",35,0.9929,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",37,0.7102,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",76,1.1875,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",61,0.9984,
+"Brown Creeper
+[Certhia americana]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Brown Creeper
+[Certhia americana]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Brown Creeper
+[Certhia americana]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Brown Creeper
+[Certhia americana]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,"HC,"
+"Brown Creeper
+[Certhia americana]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",2,0.0313,
+"Brown Creeper
+[Certhia americana]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1,0.0164,
+"Rock Wren
+[Salpinctes obsoletus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Rock Wren
+[Salpinctes obsoletus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",4,0.0941,
+"Rock Wren
+[Salpinctes obsoletus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",3,0.0851,
+"Rock Wren
+[Salpinctes obsoletus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"Rock Wren
+[Salpinctes obsoletus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",4,0.0625,
+"Rock Wren
+[Salpinctes obsoletus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"House Wren
+[Troglodytes aedon]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",10,0.1639,
+"House Wren
+[Troglodytes aedon]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"House Wren
+[Troglodytes aedon]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"House Wren
+[Troglodytes aedon]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",6,0.1152,
+"House Wren
+[Troglodytes aedon]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",2,0.0313,
+"House Wren
+[Troglodytes aedon]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",15,0.2455,
+"Marsh Wren
+[Cistothorus palustris]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",25,0.4098,
+"Marsh Wren
+[Cistothorus palustris]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",8,0.1882,
+"Marsh Wren
+[Cistothorus palustris]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Marsh Wren
+[Cistothorus palustris]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",12,0.2303,
+"Marsh Wren
+[Cistothorus palustris]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",11,0.1719,
+"Marsh Wren
+[Cistothorus palustris]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",10,0.1637,
+"Bewick's Wren
+[Thryomanes bewickii]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",33,0.5410,
+"Bewick's Wren
+[Thryomanes bewickii]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",8,0.1882,
+"Bewick's Wren
+[Thryomanes bewickii]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",4,0.1135,
+"Bewick's Wren
+[Thryomanes bewickii]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",6,0.1152,
+"Bewick's Wren
+[Thryomanes bewickii]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",19,0.2969,
+"Bewick's Wren
+[Thryomanes bewickii]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",46,0.7529,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",4,0.0656,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"Golden-crowned Kinglet
+[Regulus satrapa]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",5,0.0781,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",84,1.3770,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",44,1.0353,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",71,2.0142,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",66,1.2668,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",110,1.7188,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",213,3.4861,
+"Western Bluebird
+[Sialia mexicana]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",101,1.6557,
+"Western Bluebird
+[Sialia mexicana]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",52,1.2235,
+"Western Bluebird
+[Sialia mexicana]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",76,2.1560,
+"Western Bluebird
+[Sialia mexicana]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",158,3.0326,
+"Western Bluebird
+[Sialia mexicana]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",151,2.3594,
+"Western Bluebird
+[Sialia mexicana]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",96,1.5712,
+"Mountain Bluebird
+[Sialia currucoides]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Mountain Bluebird
+[Sialia currucoides]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Mountain Bluebird
+[Sialia currucoides]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",50,1.4184,
+"Mountain Bluebird
+[Sialia currucoides]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Mountain Bluebird
+[Sialia currucoides]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Mountain Bluebird
+[Sialia currucoides]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",6,0.0982,
+"Hermit Thrush
+[Catharus guttatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",14,0.2295,
+"Hermit Thrush
+[Catharus guttatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",3,0.0706,
+"Hermit Thrush
+[Catharus guttatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Hermit Thrush
+[Catharus guttatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",15,0.2879,"HC,"
+"Hermit Thrush
+[Catharus guttatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",5,0.0781,
+"Hermit Thrush
+[Catharus guttatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",10,0.1637,
+"American Robin
+[Turdus migratorius]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",541,8.8689,
+"American Robin
+[Turdus migratorius]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",174,4.0941,
+"American Robin
+[Turdus migratorius]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",36,1.0213,
+"American Robin
+[Turdus migratorius]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",25,0.4798,"LC,"
+"American Robin
+[Turdus migratorius]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",155,2.4219,
+"American Robin
+[Turdus migratorius]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",128,2.0949,
+"Varied Thrush
+[Ixoreus naevius]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Varied Thrush
+[Ixoreus naevius]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1,0.0235,
+"Varied Thrush
+[Ixoreus naevius]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Varied Thrush
+[Ixoreus naevius]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Varied Thrush
+[Ixoreus naevius]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Varied Thrush
+[Ixoreus naevius]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"California Thrasher
+[Toxostoma redivivum]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",3,0.0492,
+"California Thrasher
+[Toxostoma redivivum]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"California Thrasher
+[Toxostoma redivivum]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"California Thrasher
+[Toxostoma redivivum]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"California Thrasher
+[Toxostoma redivivum]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"California Thrasher
+[Toxostoma redivivum]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Northern Mockingbird
+[Mimus polyglottos]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",38,0.6230,
+"Northern Mockingbird
+[Mimus polyglottos]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",30,0.7059,
+"Northern Mockingbird
+[Mimus polyglottos]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",26,0.7376,
+"Northern Mockingbird
+[Mimus polyglottos]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",36,0.6910,
+"Northern Mockingbird
+[Mimus polyglottos]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",35,0.5469,
+"Northern Mockingbird
+[Mimus polyglottos]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",17,0.2782,
+"European Starling
+[Sturnus vulgaris]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1894,31.0492,
+"European Starling
+[Sturnus vulgaris]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2362,55.5765,
+"European Starling
+[Sturnus vulgaris]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",3269,92.7376,
+"European Starling
+[Sturnus vulgaris]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",777,14.9136,
+"European Starling
+[Sturnus vulgaris]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1583,24.7344,
+"European Starling
+[Sturnus vulgaris]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3416,55.9083,
+"American Pipit
+[Anthus rubescens]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",47,0.7705,
+"American Pipit
+[Anthus rubescens]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"American Pipit
+[Anthus rubescens]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",185,5.2482,
+"American Pipit
+[Anthus rubescens]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",11,0.2111,"LC,"
+"American Pipit
+[Anthus rubescens]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",109,1.7031,
+"American Pipit
+[Anthus rubescens]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",84,1.3748,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",5,0.0820,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",3,0.0851,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",12,0.2303,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",26,0.4063,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",2,0.0327,
+"Phainopepla
+[Phainopepla nitens]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"Phainopepla
+[Phainopepla nitens]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Phainopepla
+[Phainopepla nitens]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Phainopepla
+[Phainopepla nitens]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Phainopepla
+[Phainopepla nitens]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Phainopepla
+[Phainopepla nitens]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",4,0.0655,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",3,0.0492,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",2,0.0567,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",1,0.0192,"LC,"
+"Orange-crowned Warbler
+[Oreothlypis celata]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",11,0.1800,
+"Yellow-rumped Warbler (Audubon's)
+[Setophaga coronata auduboni]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",36,0.5902,
+"Yellow-rumped Warbler (Audubon's)
+[Setophaga coronata auduboni]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",5,0.1176,
+"Yellow-rumped Warbler (Audubon's)
+[Setophaga coronata auduboni]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",12,0.3404,
+"Yellow-rumped Warbler (Audubon's)
+[Setophaga coronata auduboni]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",26,0.4990,
+"Yellow-rumped Warbler (Audubon's)
+[Setophaga coronata auduboni]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",34,0.5313,
+"Yellow-rumped Warbler (Audubon's)
+[Setophaga coronata auduboni]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",68,1.1129,
+"Lark Sparrow
+[Chondestes grammacus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",59,0.9672,
+"Lark Sparrow
+[Chondestes grammacus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Lark Sparrow
+[Chondestes grammacus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",21,0.5957,
+"Lark Sparrow
+[Chondestes grammacus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",43,0.8253,
+"Lark Sparrow
+[Chondestes grammacus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",5,0.0781,
+"Lark Sparrow
+[Chondestes grammacus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",168,2.7496,
+"Fox Sparrow
+[Passerella iliaca]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",23,0.3770,
+"Fox Sparrow
+[Passerella iliaca]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",9,0.2118,
+"Fox Sparrow
+[Passerella iliaca]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",1,0.0284,
+"Fox Sparrow
+[Passerella iliaca]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",16,0.3071,
+"Fox Sparrow
+[Passerella iliaca]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",8,0.1250,
+"Fox Sparrow
+[Passerella iliaca]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",7,0.1146,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1,0.0164,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,"HC,"
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",483,7.9180,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",445,10.4706,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",142,4.0284,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",339,6.5067,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",240,3.7500,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",147,2.4059,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2077,34.0492,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",800,18.8235,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",586,16.6241,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",694,13.3205,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",659,10.2969,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1542,25.2373,
+"Golden-crowned Sparrow
+[Zonotrichia atricapilla]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",613,10.0492,
+"Golden-crowned Sparrow
+[Zonotrichia atricapilla]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",324,7.6235,
+"Golden-crowned Sparrow
+[Zonotrichia atricapilla]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",346,9.8156,
+"Golden-crowned Sparrow
+[Zonotrichia atricapilla]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",358,6.8714,
+"Golden-crowned Sparrow
+[Zonotrichia atricapilla]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",347,5.4219,
+"Golden-crowned Sparrow
+[Zonotrichia atricapilla]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",501,8.1997,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",2,0.0328,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2,0.0384,"HC,"
+"White-throated Sparrow
+[Zonotrichia albicollis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",1,0.0164,
+"Savannah Sparrow
+[Passerculus sandwichensis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",262,4.2951,
+"Savannah Sparrow
+[Passerculus sandwichensis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",23,0.5412,
+"Savannah Sparrow
+[Passerculus sandwichensis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",91,2.5816,
+"Savannah Sparrow
+[Passerculus sandwichensis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",218,4.1843,
+"Savannah Sparrow
+[Passerculus sandwichensis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",30,0.4688,
+"Savannah Sparrow
+[Passerculus sandwichensis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",74,1.2111,
+"Song Sparrow
+[Melospiza melodia]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",149,2.4426,
+"Song Sparrow
+[Melospiza melodia]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",34,0.8000,
+"Song Sparrow
+[Melospiza melodia]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",34,0.9645,
+"Song Sparrow
+[Melospiza melodia]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",47,0.9021,
+"Song Sparrow
+[Melospiza melodia]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",46,0.7188,
+"Song Sparrow
+[Melospiza melodia]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",209,3.4206,
+"Lincoln's Sparrow
+[Melospiza lincolnii]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",27,0.4426,
+"Lincoln's Sparrow
+[Melospiza lincolnii]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",2,0.0471,
+"Lincoln's Sparrow
+[Melospiza lincolnii]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",8,0.2270,
+"Lincoln's Sparrow
+[Melospiza lincolnii]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",9,0.1727,
+"Lincoln's Sparrow
+[Melospiza lincolnii]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",8,0.1250,
+"Lincoln's Sparrow
+[Melospiza lincolnii]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",55,0.9002,
+"California Towhee
+[Melozone crissalis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",31,0.5082,
+"California Towhee
+[Melozone crissalis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",22,0.5176,
+"California Towhee
+[Melozone crissalis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",13,0.3688,
+"California Towhee
+[Melozone crissalis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",35,0.6718,
+"California Towhee
+[Melozone crissalis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",27,0.4219,
+"California Towhee
+[Melozone crissalis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",11,0.1800,
+"Rufous-crowned Sparrow
+[Aimophila ruficeps]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",4,0.0656,
+"Rufous-crowned Sparrow
+[Aimophila ruficeps]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Rufous-crowned Sparrow
+[Aimophila ruficeps]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Rufous-crowned Sparrow
+[Aimophila ruficeps]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Rufous-crowned Sparrow
+[Aimophila ruficeps]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1,0.0156,
+"Rufous-crowned Sparrow
+[Aimophila ruficeps]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",,,
+"Spotted Towhee
+[Pipilo maculatus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",200,3.2787,
+"Spotted Towhee
+[Pipilo maculatus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",80,1.8824,
+"Spotted Towhee
+[Pipilo maculatus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",55,1.5603,
+"Spotted Towhee
+[Pipilo maculatus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",83,1.5931,
+"Spotted Towhee
+[Pipilo maculatus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",95,1.4844,
+"Spotted Towhee
+[Pipilo maculatus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",152,2.4877,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1083,17.7541,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",556,13.0824,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",320,9.0780,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2111,40.5182,"HC,"
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",563,8.7969,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",572,9.3617,
+"Tricolored Blackbird
+[Agelaius tricolor]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",350,5.7377,
+"Tricolored Blackbird
+[Agelaius tricolor]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",36,0.8471,
+"Tricolored Blackbird
+[Agelaius tricolor]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Tricolored Blackbird
+[Agelaius tricolor]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",850,16.3148,"HC,"
+"Tricolored Blackbird
+[Agelaius tricolor]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",821,12.8281,
+"Tricolored Blackbird
+[Agelaius tricolor]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Western Meadowlark
+[Sturnella neglecta]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",315,5.1639,
+"Western Meadowlark
+[Sturnella neglecta]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",450,10.5882,
+"Western Meadowlark
+[Sturnella neglecta]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",184,5.2199,
+"Western Meadowlark
+[Sturnella neglecta]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",244,4.6833,
+"Western Meadowlark
+[Sturnella neglecta]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",252,3.9375,
+"Western Meadowlark
+[Sturnella neglecta]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",167,2.7332,
+"Brewer's Blackbird
+[Euphagus cyanocephalus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",1161,19.0328,
+"Brewer's Blackbird
+[Euphagus cyanocephalus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",1392,32.7529,
+"Brewer's Blackbird
+[Euphagus cyanocephalus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",747,21.1915,
+"Brewer's Blackbird
+[Euphagus cyanocephalus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",2066,39.6545,"HC,"
+"Brewer's Blackbird
+[Euphagus cyanocephalus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",1344,21.0000,
+"Brewer's Blackbird
+[Euphagus cyanocephalus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",3222,52.7332,
+"Brown-headed Cowbird
+[Molothrus ater]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",18,0.2951,
+"Brown-headed Cowbird
+[Molothrus ater]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",38,0.8941,
+"Brown-headed Cowbird
+[Molothrus ater]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Brown-headed Cowbird
+[Molothrus ater]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Brown-headed Cowbird
+[Molothrus ater]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",6,0.0938,
+"Brown-headed Cowbird
+[Molothrus ater]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"House Finch
+[Haemorhous mexicanus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",191,3.1311,
+"House Finch
+[Haemorhous mexicanus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",58,1.3647,
+"House Finch
+[Haemorhous mexicanus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",25,0.7092,
+"House Finch
+[Haemorhous mexicanus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",10,0.1919,"LC,"
+"House Finch
+[Haemorhous mexicanus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",99,1.5469,
+"House Finch
+[Haemorhous mexicanus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",137,2.2422,
+"Purple Finch
+[Haemorhous purpureus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Purple Finch
+[Haemorhous purpureus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",,,
+"Purple Finch
+[Haemorhous purpureus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Purple Finch
+[Haemorhous purpureus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",4,0.0768,
+"Purple Finch
+[Haemorhous purpureus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Purple Finch
+[Haemorhous purpureus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",5,0.0818,
+"Pine Siskin
+[Spinus pinus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",,,
+"Pine Siskin
+[Spinus pinus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",12,0.2824,
+"Pine Siskin
+[Spinus pinus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",,,
+"Pine Siskin
+[Spinus pinus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",,,
+"Pine Siskin
+[Spinus pinus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",,,
+"Pine Siskin
+[Spinus pinus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",42,0.6874,
+"Lesser Goldfinch
+[Spinus psaltria]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",345,5.6557,
+"Lesser Goldfinch
+[Spinus psaltria]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",428,10.0706,
+"Lesser Goldfinch
+[Spinus psaltria]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",206,5.8440,
+"Lesser Goldfinch
+[Spinus psaltria]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",258,4.9520,
+"Lesser Goldfinch
+[Spinus psaltria]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",211,3.2969,
+"Lesser Goldfinch
+[Spinus psaltria]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",232,3.7971,
+"American Goldfinch
+[Spinus tristis]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",109,1.7869,
+"American Goldfinch
+[Spinus tristis]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",93,2.1882,
+"American Goldfinch
+[Spinus tristis]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",12,0.3404,
+"American Goldfinch
+[Spinus tristis]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",54,1.0365,
+"American Goldfinch
+[Spinus tristis]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",72,1.1250,
+"American Goldfinch
+[Spinus tristis]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",38,0.6219,
+"House Sparrow
+[Passer domesticus]","2013 [114]
+Count Date: 12/20/2013
+# Participants: 16
+# Species Reported: 118
+Total Hrs.: 61.00",97,1.5902,
+"House Sparrow
+[Passer domesticus]","2014 [115]
+Count Date: 12/20/2014
+# Participants: 9
+# Species Reported: 110
+Total Hrs.: 42.50",36,0.8471,
+"House Sparrow
+[Passer domesticus]","2016 [117]
+Count Date: 12/18/2016
+# Participants: 9
+# Species Reported: 106
+Total Hrs.: 35.25",58,1.6454,
+"House Sparrow
+[Passer domesticus]","2017 [118]
+Count Date: 12/23/2017
+# Participants: 13
+# Species Reported: 108
+Total Hrs.: 52.10",132,2.5336,"HC,"
+"House Sparrow
+[Passer domesticus]","2018 [119]
+Count Date: 12/22/2018
+# Participants: 7
+# Species Reported: 110
+Total Hrs.: 64.00",74,1.1563,
+"House Sparrow
+[Passer domesticus]","2023 [124]
+Count Date: 12/23/2023
+# Participants: 12
+# Species Reported: 113
+Total Hrs.: 61.10",97,1.5876,
+
+CountYear1,FirstName,LastName,Email,IsPrimary
+124,Daniel,Bye,danbye56@gmail.com,Yes
+118,Brooke,McDonald,bmm11@humboldt.edu,Yes
+119,Brooke,McDonald,bmm11@humboldt.edu,Yes
+123,Brooke,McDonald,bmm11@humboldt.edu,Yes
+117,Brooke,McDonald,bmm11@humboldt.edu,Yes
+121,Brooke,McDonald,bmm11@humboldt.edu,Yes
+123,Frank,Sanderson,sfrank1@jps.net,No
+115,Frank,Sanderson,sfrank1@jps.net,Yes
+117,Frank,Sanderson,sfrank1@jps.net,No
+121,Frank,Sanderson,sfrank1@jps.net,No
+118,Frank,Sanderson,sfrank1@jps.net,No
+119,Frank,Sanderson,sfrank1@jps.net,No
+114,Rob,Santry,kingbird@snowcrest.net,Yes
+
+CountYear2,FirstName2,LastName2
+124,Daniel,Bye
+124,Julie,Doerr
+124,Tricia,Ford
+124,David,Garza
+124,Larry,Jordan
+124,Tim,Kashuba
+124,Sarah,Leslie
+124,Ed,Pottmeyer
+124,Michele,Swartout
+124,Brian,Williams
+124,Canyon,Williams
+124,Bob & Carol,Yutzy
+119,Linda,Aldrich
+119,Dan,Bye
+119,Bill,Oliver
+119,Jesse,Sargent
+119,Michelle,Swartout
+119,Connie,Ward
+119,Bob & Carol,Yutzy
+118,Linda,Aldrich
+118,Dan,Bye
+118,Esther,Cox
+118,Al,De Martini
+118,Peggy,Macres
+118,Sally,NeSmith
+118,Bill,Oliver
+118,Jennifer,Rycenga
+118,Patricia,Seaton
+118,Becky,Spence
+118,Michelle,Swartout
+118,Connie,Ward
+118,Bob & Carol,Yutzy
+117,Linda,Aldrich
+117,Jeannattte,Carroll
+117,Esther,Cox
+117,Larry,Jordan
+117,Bill,Oliver
+117,Ed,Pottmeyer
+117,Frank & Darliss,Sanderson
+117,Chad ,Scott
+117,Bob & Carol,Yutzy
+115,Linda,Aldrich
+115,Jeannattte,Carroll
+115,Esther,Cox
+115,Larry,Jordan
+115,Bill,Oliver
+115,Ed,Pottmeyer
+115,Frank & Darliss,Sanderson
+115,Chad ,Scott
+115,Bob & Carol,Yutzy
+114,Linda,Aldrich
+114,Ken,Bachman
+114,Esther,Cox
+114,Don,Goodykoontz
+114,Dennis,Holmes
+114,Kai,Kong
+114,Paul,Mitchell
+114,Bill,Oliver
+114,Ed,Pottmeyer
+114,Richard,Redmond
+114,Frank & Darliss,Sanderson
+114,Rob & Cathy,Santry
+114,Chad ,Scott
+114,Camille,Soares-Brown
+114,Michele,Swartout
+114,Bob & Carol,Yutzy
+

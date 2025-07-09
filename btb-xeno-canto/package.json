@@ -1,0 +1,21 @@
+{
+  "name": "p5-js",
+  "version": "0.0.1",
+  "description": "p5.js Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "http-proxy-middleware": "^2.0.3",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ]
+}

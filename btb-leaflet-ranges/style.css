@@ -1,0 +1,41 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  height: 100%;
+  padding: 0 1rem;
+  background-color:#302010;
+  color:white;
+}
+
+@media (min-width: 650px) {
+  body {
+    padding: 0 2rem;
+  }
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+}
+
+html, body {
+  height: 100%;
+  width: 100vw;
+  margin: 0;
+}
+
+#mapid {
+  margin-top: 3em;
+  height: 70%;
+  width: 80%;
+}
+
+.glitchButton {
+  z-index: 1000;
+}
