@@ -21,7 +21,7 @@ let ebirdData;
 //Two modes:
 // "lifers" - shows new bird species
 // "species" - shows all sightings of one species
-let mode = "species";
+let mode = "lifers";
 let species = "Brant";
 
 //Dictionary of observation lists indexed by species
