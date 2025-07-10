@@ -1,4 +1,4 @@
-/*
+e/*
 
 This project uses my personal eBird Data.
 
@@ -21,8 +21,8 @@ let ebirdData;
 //Two modes:
 // "lifers" - shows new bird species
 // "species" - shows all sightings of one species
-let mode = "lifers";
-//let species = "Brant";
+let mode = "species";
+let species = "Canada Goose";
 
 //Dictionary of observation lists indexed by species
 // ie. birdMap["Northern Cardinal"] = [obs1, obs2... obsN];
