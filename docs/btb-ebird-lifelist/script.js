@@ -22,7 +22,7 @@ let ebirdData;
 // "lifers" - shows new bird species
 // "species" - shows all sightings of one species
 let mode = "species";
-let species = "Canada Goose";
+let species = "Brant";
 
 //Dictionary of observation lists indexed by species
 // ie. birdMap["Northern Cardinal"] = [obs1, obs2... obsN];
