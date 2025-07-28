@@ -1,4 +1,4 @@
-e/*
+/*
 
 This project uses my personal eBird Data.
 
